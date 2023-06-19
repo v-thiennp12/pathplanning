@@ -23,3 +23,5 @@ print(grid[0].shape)    # (10,)
 print(grid[0,:].shape)  # (10,)
 
 print(start)
+print(str(start))
+print(str(start)[0])
